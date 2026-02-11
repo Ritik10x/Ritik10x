@@ -10,7 +10,7 @@
 🏀 Fun Fact: Debugketball — the only game with a 100% hit rate
 
 <p align="center">
-  <img src="GithubBanner.png" alt="Building Scalable Software With Vision" width="100%" />
+  <img src="GithubBanner.jpg" alt="Building Scalable Software With Vision" width="100%" />
 </p>
 
 ## 🌐 Socials:
