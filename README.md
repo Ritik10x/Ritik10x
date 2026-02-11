@@ -9,7 +9,9 @@
 💬 Ask me about React, APIs, databases, system design & deployment workflows  
 🏀 Fun Fact: Debugketball — the only game with a 100% hit rate
 
-
+<p align="center">
+  <img src="GithubBanner.png" alt="Building Scalable Software With Vision" width="100%" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritik-singh-5602b7233/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritiksingh060101@gmail.com) 
