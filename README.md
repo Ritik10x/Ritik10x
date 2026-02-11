@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 MERN Stack Developer building and deploying real-world web apps<br>🌱 Learning advanced React, Node.js backend optimization & DSA in Java<br>🤝 Open to collaboration on full-stack and open-source projects<br>💬 Ask me about React, Redux, APIs, MongoDB Atlas & deployments<br>⚡ Fun Fact: Debugketball — the only game with a 100% hit rate 🏀💻
+🚀 Full-Stack Developer building and deploying production-ready web applications  
+🧠 Strong in React, Next.js, TypeScript, Node.js, Express & REST API architecture  
+🗄️ Experienced with MongoDB, MySQL, SQLite & database design principles  
+🐍 Backend capable with Python & Flask  
+⚡ Skilled in authentication (JWT), state management (Redux), and scalable deployments  
+🌱 Currently sharpening DSA in Java & backend optimization  
+🤝 Open to collaboration on full-stack and open-source projects  
+💬 Ask me about React, APIs, databases, system design & deployment workflows  
+🏀 Fun Fact: Debugketball — the only game with a 100% hit rate
+
 
 
 ## 🌐 Socials:
